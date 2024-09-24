@@ -3,4 +3,5 @@
 1. Created a new Gh repository for testing
 1. Created local repository for testing
 1. created a readme file having all the tasks
-1.
+1. connected both local and remote repositories
+1. creating an html file with **hello galaxy**
