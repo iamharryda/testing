@@ -21,4 +21,4 @@ then i pulled it again and gave me hint to resolve all the conflicts manually an
 hint: "git add/rm <conflicted_files>", then run "git rebase --continue".
 ```
 
-then I changed it manually and tried again and it pushed perfectly:grinning:
+then I changed it manually and tried again and it pushed perfectly
