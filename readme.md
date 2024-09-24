@@ -1,4 +1,4 @@
-#tasks of this repository
+# tasks of this repository
 
 1. Created a new Gh repository for testing
 1. Created local repository for testing
@@ -7,7 +7,7 @@
 1. created an html file with **hello galaxy** and pushed it in the remote repository
 1. chaged something in the remote repository
 
-#how I resolved merge conflict issue
+# how I resolved merge conflict issue
 
 I made a remote repository change which created a conflict. after that i changed in my local repo and and pushed it. then terminal showed me error and told me to give
 
